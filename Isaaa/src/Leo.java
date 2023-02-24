@@ -7,6 +7,8 @@ public class Leo {
 		System.out.println("Hello Sir");
 		System.out.println("Hello Mam");
 		System.out.println("Hello Boss");
+		System.out.println("Hello Myron");
+		System.out.println("Hello Shane");
 
 	}
 
